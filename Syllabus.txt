@@ -1,0 +1,35 @@
+List of High Performance Computing Laboratory Assignments (Any Eight)
+
+1. Vector and Matrix Operations- Design parallel algorithm to  
+    a. Add two large vectors  
+    b. Multiply Vector and Matrix  
+    c. Multiply two N × N arrays using n2 processors. 
+
+2. Parallel sorting Algorithms- for Bubble Sort and Merger Sort, based on existing sequential algorithms, 
+design and implement parallel algorithm utilizing all resources available. 
+
+3. Parallel Implementation of the K Nearest Neighbors Classifier using python/openmp.  
+
+4. Study of Cluster building steps - MPI Cluster setup and overview of different routines. 
+    a. Different steps to build a MPI cluster over LAN. 
+    b. Master-Slave concept and different MPI routines.  
+
+5. Parallel implementation of all pair shortest path algorithm using openmp/MPI 
+
+6. Program to implement point-to-point communication using MPI routines. 
+    a. Parallelizing Trapezoidal Rule using MPI_Send and MPI_Reveive. 
+
+7. Program to implement collective communication using MPI routines. 
+    a. Gather, Scatter and Broadcast operations. 
+    b. Matrix-Vector multiplication execution. 
+
+8. Program to implement Merge sort/ Graph Computation algorithm using MPI routines. 
+    a. Steps in parallelizing Merge Sort/ Matrix Partitioning. 
+
+9. Program to execute matrix multiplication using CUDA. 
+    a. Basic CUDA host, device and memory constructs. 
+    b. Thread- warp, block, grid usage. 
+
+10. Program to implement Map-Reduce parallelism for Warehouse -Scale Computer.  
+    a. Parallelism using Map-Reduce programming model. 
+    b. Example of word count process with key-value pair. 

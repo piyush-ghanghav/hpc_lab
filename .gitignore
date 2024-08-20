@@ -1,0 +1,7 @@
+# Ignore compiled binaries
+Assignment1
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore other specific files or patterns if any
