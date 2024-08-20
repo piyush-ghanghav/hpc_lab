@@ -1,5 +1,6 @@
 # Ignore compiled binaries
-Assignment1
+Assignment1_a
+Assignment1_b
 
 # Ignore VSCode settings
 .vscode/
