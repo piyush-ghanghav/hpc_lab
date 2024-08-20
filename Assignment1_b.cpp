@@ -1,3 +1,6 @@
+// 1. Vector and Matrix Operations- Design parallel algorithm to  
+//     b. Multiply Vector and Matrix  
+
 #include<iostream>
 #include<cstdlib>
 #include<vector>
