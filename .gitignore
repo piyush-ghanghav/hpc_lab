@@ -1,9 +1,15 @@
 # Ignore compiled binaries
+t
+
 Assignment1_a
 Assignment1_b
 Assignment1_c
+
+Assignment2_a
+Assignment2_b
 
 # Ignore VSCode settings
 .vscode/
 
 # Ignore other specific files or patterns if any
+t.cpp
