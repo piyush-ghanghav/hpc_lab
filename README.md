@@ -21,15 +21,6 @@ The lab assignments cover the following topics:
 - **Parallel Computing Libraries**: OpenMP
 - **Development Environment**: Visual Studio Code (VSCode), HPC cluster
 
-## Installation
-
-To run these assignments locally, ensure you have the following set up:
-
-1. **C++ Compiler**: Install a compatible C++ compiler (e.g., GCC or MSVC).
-2. **OpenMP**: Ensure OpenMP is installed and properly configured.
-3. **VSCode**: Use Visual Studio Code with the necessary extensions for C++ development.
-4. **HPC Access**: Access to an HPC cluster with multiple processors (if required).
-
 ## Running Tests
 
 To test the parallel algorithms:
